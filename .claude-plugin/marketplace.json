@@ -14,8 +14,8 @@
       "description": "Jira Cloud API integration for worklog management, issue operations, and description updates with ADF support.",
       "category": "development",
       "source": {
-        "source": "github",
-        "repo": "kilhyeonjun/jira-skill"
+        "source": "url",
+        "url": "https://github.com/kilhyeonjun/jira-skill.git"
       }
     }
   ]
